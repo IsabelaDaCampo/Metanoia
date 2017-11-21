@@ -1,0 +1,76 @@
+/*CSS INICIAR*/
+body{
+	font-family: Helvetica, sans-serif;
+}
+#wrap{
+	width: 1134px;
+	height: 620px;
+	margin: 10px auto;
+	background-image: url("img/background.png");
+}
+#game{
+	position: absolute;
+	top: 30%;
+	left: 5%;
+}
+#opcao{
+	position: absolute;
+	top: 50%;
+	left: 5%;
+}
+article{
+	width: 290px;
+	height: 300px;
+	position: absolute;
+	top: 35%;
+	left: 45%;
+	background-color: #cccccc;
+	opacity: 0.9;
+}
+/*CSS OPÇÃO*/
+#op_game{
+	width: 1134px;
+	height: 620px;
+	margin: 10px auto;
+	background-color: #F5F5F0;
+}
+#img_op{
+	position: absolute;
+	top: 20%;
+	left: 20%;	
+}
+#op_desc{
+	position: absolute;
+	left: 36.5%;
+	top: 20%;
+	width: 620px;
+	height: 330px;
+
+}
+h1{
+	position: absolute;
+	left: 20%;
+	font-family: sans-serif, Arial;
+}
+p{
+	position: absolute;
+	left: 3%;
+	top: 30%;
+}
+footer{
+	position: fixed;
+	left: 0%;
+    bottom: 3%;
+    width: 100%;
+    margin: 10px auto;
+    text-align: center;
+}
+#menu_principal{
+	position: absolute;
+	top: 85%;
+	left: 3%;
+}
+#texto_sobre{
+	position: absolute;
+	top: 70%;
+}
